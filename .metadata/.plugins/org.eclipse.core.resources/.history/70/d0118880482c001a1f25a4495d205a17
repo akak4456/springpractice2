@@ -1,0 +1,6 @@
+package org.zerock.domain;
+@Data
+public class AuthVO {
+	private String userid;
+	private String auth;
+}

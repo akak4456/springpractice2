@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=ex02/src\/main\/java&lt;org.zerock.service{BoardService.java[BoardService" modifiers="513" timestamp="1577169553616"/>
+<typeInfo handle="=ex04/src\/main\/java&lt;org.zerock.service{SampleService.java[SampleService" modifiers="513" timestamp="1577423764182"/>
+<typeInfo handle="=ex04/src\/main\/java&lt;org.zerock.service{SampleTxService.java[SampleTxService" modifiers="513" timestamp="1577426959228"/>
+<typeInfo handle="=ex05/C:\/Users\/akak4\/.m2\/repository\/org\/springframework\/security\/spring-security-web\/5.0.6.RELEASE\/spring-security-web-5.0.6.RELEASE.jar&lt;org.springframework.security.web.access(AccessDeniedHandler.class[AccessDeniedHandler" modifiers="1537" timestamp="1577767925039"/>
+<typeInfo handle="=ex05/C:\/Users\/akak4\/.m2\/repository\/org\/springframework\/security\/spring-security-core\/5.0.6.RELEASE\/spring-security-core-5.0.6.RELEASE.jar&lt;org.springframework.security.core.userdetails(UserDetailsService.class[UserDetailsService" modifiers="1537" timestamp="1577767927767"/>
+<typeInfo handle="=ex05/C:\/Users\/akak4\/.m2\/repository\/org\/springframework\/security\/spring-security-core\/5.0.6.RELEASE\/spring-security-core-5.0.6.RELEASE.jar&lt;org.springframework.security.core.userdetails(User.class[User" modifiers="33" timestamp="1577767927767"/>
+</typeInfoHistroy>

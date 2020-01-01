@@ -1,0 +1,10 @@
+package org.zerock.security;
+
+import lombok.extern.java.Log;
+
+@Log4j
+public class CustomNoOpPasswordEncoder {
+	public String encode(CharSequence rawPassword) {
+		
+	}
+}

@@ -1,0 +1,12 @@
+package org.zerock.service;
+@Service
+@Log4j
+public class SampleTxServiceImpl implements SampleTxService {
+	
+	@Override
+	public void addData(String value) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
